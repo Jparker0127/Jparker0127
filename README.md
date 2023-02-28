@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### My name is Jesse (He/Him) and I am just starting my Open Source journey!
+
+
 <!--
 **Jparker0127/Jparker0127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
