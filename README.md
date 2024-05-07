@@ -1,19 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm J.</h1>
+<h3 align="center">A QA Engineer developing his skills</h3>
 
-### My name is Jesse (He/Him) and I am just starting my Open Source journey!
+- 🔭 I’m currently working on **learning Playwright**
 
+- 🌱 I’m currently learning **Python, Playwright, Arduino (C)**
 
-<!--
-**Jparker0127/Jparker0127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤝 I’m looking for help with **learning Python**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **Jesse.parker2018@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **I love photography!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
